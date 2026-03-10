@@ -31,6 +31,9 @@ My portfolio contains documentation samples demonstrating how security concepts 
 
 These documents simulate real-world security documentation used by organizations and engineering teams.
 
+Project Documentations:
+https://github.com/cedriconyedika/cybersecurity-technical-writing-portfolio/tree/main/docs
+
 ---
 
 ## Skills
